@@ -27,8 +27,11 @@ Methods:
     - module3 # Refering to `jieba/finalseg/__init__.py`
 ```
 
+Supplement: How to get the data files? Here is the explanation from [jieba issue](https://github.com/fxsjy/jieba/issues/7).
+
 ### Start
 
 ```shell
 PYTHONIOENCODING=utf-8 PYTHONPATH=. python main.py
 ```
+
