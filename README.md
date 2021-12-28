@@ -26,3 +26,9 @@ Methods:
     - module2 # Refering to `jieba/__init__.py`
     - module3 # Refering to `jieba/finalseg/__init__.py`
 ```
+
+### Start
+
+```shell
+PYTHONIOENCODING=utf-8 PYTHONPATH=. python main.py
+```
